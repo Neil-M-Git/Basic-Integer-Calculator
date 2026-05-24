@@ -25,3 +25,28 @@ Vanilla JavaScript
  ┣ 📜 sty.css
  ┣ 📜 script.js
  ┗ 📜 README.md
+
+⚙️ How It Works
+
+The calculator uses:
+1. DOM manipulation
+2. Event delegation
+3. State management
+4. Operator handling logic
+
+Key JavaScript concepts implemented:
+- querySelector()
+- Event listeners
+- Conditional logic
+- Helper functions
+- Dynamic UI updates
+
+🧠 Concepts Practiced
+
+While building this project, I practiced:
+- JavaScript fundamentals
+- DOM manipulation
+- Event handling
+- Calculator logic implementation
+- UI styling with glassmorphism
+- Managing application state
