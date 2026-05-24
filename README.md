@@ -19,12 +19,6 @@ This project performs basic integer arithmetic operations on integers while show
 - CSS3
 - Vanilla JavaScript
 
-📂 Project Structure
-📦 Glassmorphic-Calculator
- ┣ 📜 index.html
- ┣ 📜 sty.css
- ┣ 📜 script.js
- ┗ 📜 README.md
 
 ⚙️ How It Works
 
